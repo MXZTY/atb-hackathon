@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import Borrowing from "./borrowing";
+import lending from "./lending";
+import profile from "./profile";
 
 class StartPage extends Component {
   state = {};
